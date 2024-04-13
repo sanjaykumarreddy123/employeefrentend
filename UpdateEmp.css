@@ -1,0 +1,30 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: image('login.jpeg');
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: #fff;
+    border: none;
+}
+
+.btn-primary,
+.btn-secondary {
+    margin-right: 10px;
+}
